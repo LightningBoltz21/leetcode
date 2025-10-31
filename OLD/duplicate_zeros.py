@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def duplicateZeros(self, arr):
         """
         :type arr: List[int]
